@@ -7,7 +7,7 @@ import { Figtree } from "next/font/google";
 import Layout from "@/utils/Layout";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "@/styles/globals.css";
-import  "@/styles/customStyles.css"
+// import  "@/styles/customStyles.css"
 
 
 
